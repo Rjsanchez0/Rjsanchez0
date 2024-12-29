@@ -1,5 +1,5 @@
-<h1>Hi, I'm RJ! <br/><a 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h1>Hi, I'm Raul! <br/><a 
+<h2>👨‍💻 DevsecOps Projects:</h2>
 
 - <li><b>Threat Modeling DevSecOps Project</b>
     - <a href="https://github.com/Rjsanchez0/Threat-Modelling-Devsecops-Project" target="_blank">GitHub Repository</a>
