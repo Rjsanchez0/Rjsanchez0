@@ -5,17 +5,7 @@
     - <a href="https://github.com/Rjsanchez0/Threat-Modelling-Devsecops-Project" target="_blank">GitHub Repository</a>
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - <a href="https://github.com/Rjsanchez0/Devsecopsprojects1" target="_blank">GitHub Repository</a>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
-  - [JWipe (Disk Wiping Utility)]
-  - [Active Directory Bulk User Creation
-  - [FIM (File Integrity Monitor)]
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)]
-  - [Ransomware Proof of Concept (Decrypter)]
-  - [Keylogger with Email Capability]
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
+
 
 
 
