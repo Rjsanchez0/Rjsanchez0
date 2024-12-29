@@ -1,8 +1,8 @@
 <h1>Hi, I'm RJ! <br/><a 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]
+- <li><b>Threat Modeling DevSecOps Project</b>
+    - <a href="https://github.com/Rjsanchez0/Threat-Modelling-Devsecops-Project" target="_blank">GitHub Repository</a>
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware]
 - <b>PowerShell</b>
