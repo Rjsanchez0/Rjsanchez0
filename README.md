@@ -3,7 +3,7 @@
 
 - <b>Threat Modeling DevSecOps Project</b>
     - <a href="https://github.com/Rjsanchez0/Threat-Modelling-Devsecops-Project" target="_blank">GitHub Repository</a>
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>DevsecOps Project one (Terraform, AWS, Github Actions, Iac, SAST, SCA)</b>
   - <a href="https://github.com/Rjsanchez0/Devsecopsprojects1" target="_blank">GitHub Repository</a>
 
 
