@@ -9,7 +9,7 @@
 
 ## 🛡️ Blue Team Projects (SOC, DFIR, Detection Engineering)
 
-- **[📧 Email Phishing Threat Analysis (SOC Project)](https://github.com/YOUR_USERNAME/phishing-threat-analysis)**
+- **[📧 Email Phishing Threat Analysis (SOC Project)](https://github.com/Rjsanchez0/Phishing-Email-Analysis-/blob/main/README.md)**
   - Full SOC triage across 3 incidents (phishing, malware, static analysis, remediation)
 - **[📊 SOC Dashboard Incident Review](https://github.com/YOUR_USERNAME/Soc-Dashboard-Incident-Review)**
   - Analysis of a real alert with EDR, SIEM correlation, and defensive response write-up
