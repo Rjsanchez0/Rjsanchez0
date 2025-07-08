@@ -2,6 +2,9 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <H1> Blue team Projects</H1>
+
+
+- <h1>DevSecOps Projects</h1>
 - <b>Threat Modeling DevSecOps Project</b>
     - <a href="https://github.com/Rjsanchez0/Threat-Modelling-Devsecops-Project" target="_blank">GitHub Repository</a>
 - <b>DevsecOps Project one (Terraform, AWS, Github Actions, Iac, SAST, SCA)</b>
@@ -20,17 +23,3 @@
 [linkedin]:https://www.linkedin.com/in/rj-sanchez-01135b1a8/
 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
