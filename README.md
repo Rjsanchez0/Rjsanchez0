@@ -1,43 +1,46 @@
-<h1 align="center">👋 Hi, I'm Raul Sanchez!</h1>
+<h1 align="center"> Hi, I'm Raul Sanchez!</h1>
 
 <p align="center">
-  <b>Cybersecurity Apprentice | Red Team | Blue Team | DevSecOps | AWS Cloud Security</b><br>
+  <b>Cybersecurity Professional | Red Team | Blue Team | DevSecOps | AWS Cloud Security</b><br>
   <i>Focused on real-world offensive and defensive security engineering projects.</i>
 </p>
 
 ---
 
-## 🛡️ Blue Team Projects (SOC, DFIR, Detection Engineering)
+##  Blue Team Projects (SOC, DFIR, Detection Engineering)
 
 - **[📧 Email Phishing Threat Analysis (SOC Project)](https://github.com/Rjsanchez0/Phishing-Email-Analysis-/blob/main/README.md)**
   - Full SOC triage across 3 incidents (phishing, malware, static analysis, remediation)
 
 ---
 
-## 🔴 Red Team Projects (Web Exploits, Malware, OSWE Prep)
+##  Red Team Projects (Web Exploits, Malware, OSWE Prep)
 
 
 
-## ☁️ DevSecOps & AWS Projects
+##  DevSecOps & AWS Projects
 
-- **[🔐 Threat Modeling + Security Architecture](https://github.com/Rjsanchez0/Threat-Modelling-Devsecops-Project)**
+- ** Threat Modeling + Security Architecture](https://github.com/Rjsanchez0/Threat-Modelling-Devsecops-Project)**
   - STRIDE modeling, threat scenarios, and mitigation plans
-- **[☁️ DevSecOps Pipeline Project (Terraform + GitHub Actions)](https://github.com/Rjsanchez0/Devsecopsprojects1)**
+- **[ DevSecOps Pipeline Project (Terraform + GitHub Actions)](https://github.com/Rjsanchez0/Devsecopsprojects1)**
   - AWS, IaC security (SAST, SCA, TFSEC, Checkov), secrets scanning, CI/CD hardening
-- **[🌩️ AWS Infrastructure Lab](https://github.com/YOUR_USERNAME/aws-security-lab)** (coming soon)
+- **[ AWS Infrastructure Lab](https://github.com/YOUR_USERNAME/aws-security-lab)** (coming soon)
   - IAM privilege escalation lab, misconfigured S3, CloudTrail monitoring
 
 ---
 
-## 📚 Certifications
+##  Certifications
 
-- ✅ Google Cybersecurity Cert
-- ✅ CompTIA Security+
-- 🎯 Currently pursuing: OSWE, CPTS, CRTO, AWS Security
+-  Google Cybersecurity Cert
+-  CompTIA Security+
+-  Currently pursuing: OSWE, CPTS, CRTO, AWS Security
 
 ---
 
-## 📬 Connect With Me
+## Education 
+- Bachelors in CyberSecurity SNHU (2026) 
+
+##  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rj-sanchez-01135b1a8" target="_blank">
