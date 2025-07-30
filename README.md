@@ -11,8 +11,8 @@
 
 - **[ Email Phishing Threat Analysis (SOC Project)](https://github.com/Rjsanchez0/Phishing-Email-Analysis-/blob/main/README.md)**
   - Full SOC triage across 3 incidents (phishing, malware, static analysis, remediation)
--[Network Security tools (tcpdump, Wireshark, Snort)](https://github.com/Rjsanchez0/Network-Security-Lab/tree/main)
-  - Network Security Tools with practical challanges
+- [Network Security Tools (tcpdump, Wireshark, Snort)](https://github.com/Rjsanchez0/Network-Security-Lab/tree/main)  
+  - Network Security Tools with practical challenges
 
 ---
 
