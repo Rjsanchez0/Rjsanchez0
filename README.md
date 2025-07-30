@@ -22,7 +22,7 @@
 
 ##  DevSecOps & AWS Projects
 
-- ** [ Threat Modeling + Security Architecture](https://github.com/Rjsanchez0/Threat-Modelling-Devsecops-Project)**
+- **[ Threat Modeling + Security Architecture](https://github.com/Rjsanchez0/Threat-Modelling-Devsecops-Project)**
   - STRIDE modeling, threat scenarios, and mitigation plans
 - **[ DevSecOps Pipeline Project (Terraform + GitHub Actions)](https://github.com/Rjsanchez0/Devsecopsprojects1)**
   - AWS, IaC security (SAST, SCA, TFSEC, Checkov), secrets scanning, CI/CD hardening
